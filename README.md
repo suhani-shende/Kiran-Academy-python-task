@@ -1,4 +1,4 @@
-# Kiran Academy – Task 01: Shopping Bill
+# Kiran Academy – Task 02: Shopping Bill
 
 ## Project Description
 This project calculates a shopping bill using Python. It applies GST to different item categories and then applies a 20% discount to the total bill.
